@@ -1,0 +1,13 @@
+{
+  "name": "image-shrink",
+  "description": "Middleware for resizing images",
+  "version": "0.1.0",
+  "author": "Matias Meno <m@tias.me>",
+  "keywords": ["node", "image", "resize", "middleware"],
+  "dependencies": {
+    "imagemagick": "0.1.x",
+    "q": "0.8.x"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.2.0" }
+}
